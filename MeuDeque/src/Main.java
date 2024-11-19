@@ -11,6 +11,7 @@ public class Main {
 		deque.addFirst("M");
 		
 		//exibindo os elementos
+		
 		System.out.println("primeiro elemento: " + deque.peekFirst()); // M
 		System.out.println("Ultimo elemento: "+ deque.peekLast()); // Y
 
